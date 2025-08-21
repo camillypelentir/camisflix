@@ -1,6 +1,12 @@
 body {
     background-color: rgb(248, 212, 255);
     color: rgb(99, 0, 86);
-    font-family: 'caprasimo';
+    font-family: 'caprasimo&display';
+}
 
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
 }
