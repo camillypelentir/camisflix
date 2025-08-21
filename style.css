@@ -1,3 +1,7 @@
+header{
+    border-bottom: solid;
+}
+
 body {
     background-color: rgb(248, 212, 255);
     color: rgb(99, 0, 86);
